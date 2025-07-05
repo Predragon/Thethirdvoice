@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>The Third Voice</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8f9fa;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #121212;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 1.8rem;
+    }
+    section {
+      padding: 2rem 1.5rem;
+      max-width: 700px;
+      margin: auto;
+    }
+    .highlight {
+      font-weight: bold;
+      color: #0d6efd;
+    }
+    .cta {
+      background: #0d6efd;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+      margin: 2rem 0;
+      border-radius: 8px;
+    }
+    .cta a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      padding: 1rem;
+      background: #eee;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>The Third Voice</h1>
+  <p>AI for emotionally intelligent communication</p>
+</header>
+
+<section>
+  <p><span class="highlight">The Third Voice</span> is a relationship AI designed to help couples, co-parents, and families communicate better — especially in emotionally charged moments.</p>
+
+  <p>Born from a real-life need during 15 months of detention, it became a mission to help others preserve love, understanding, and connection with the help of technology.</p>
+
+  <div class="cta">
+    <p>📬 Be the first to try it. <a href="mailto:thethirdvoice.ai@gmail.com">Join the beta list</a></p>
+  </div>
+
+  <p>We're building a calm, neutral voice to mediate the moments where love gets lost in translation.</p>
+
+  <p>Because sometimes, the right words — at the right time — can save everything.</p>
+</section>
+
+<footer>
+  &copy; 2025 The Third Voice · <a href="mailto:thethirdvoice.ai@gmail.com">Contact Us</a>
+</footer>
+
+</body>
+</html>
