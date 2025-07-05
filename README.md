@@ -1,2 +1,2 @@
-# Thethirdvoice
+# The Third Voice
 TheThirdVoice.ai
