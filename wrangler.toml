@@ -1,0 +1,5 @@
+name = "thirdvoice-landing-page"
+compatibility_date = "2025-09-15"
+
+type = "assets"
+site = { bucket = "./", entry-point = "./" }
